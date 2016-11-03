@@ -1,0 +1,77 @@
+@import url('StickyFooter.css');
+
+body {
+    font-family: Helvetica, sans-serif,'Times New Roman';
+    background-image:url("bp.png");
+    background-size:100%;
+    max-width:1100px;
+    margin:auto;
+    
+}
+main{
+    max-width:1100px;
+    margin:auto;
+}
+.Content{
+    text-align:center;
+}
+
+#footer{
+    border: solid medium #000000;
+    text-align:center;
+
+}
+
+
+.Garage{
+    width: 1050px;
+    margin:auto;
+}
+
+.Garageinfo{
+    border: solid medium #ff0000;
+    float:right;
+    width:99%;
+    text-align:center;
+    margin-top:10px;
+    margin-left:30px;
+    padding-left:30px;
+}
+
+.WBoarder{
+    width: 100%;
+    margin:100px;
+}
+.VeicleL{
+    border: solid medium #ff0000;
+    background-color:yellow;
+    float:left;
+    width:200px;
+    text-align:right;
+    margin:10px;
+    padding:10px;
+    
+}
+
+.imSaab{
+    object-fit:scale-down;
+    background-image: url("http://bilelib.com/img/spec/mdf/saab-9-5-saloon-1997.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.NavBar{
+    border: solid medium black;
+    text-align:center;
+    font-size:large;
+}
+.OmOss{
+    border: solid medium #ff0000;
+    background-color:yellow;
+    float:left;
+    width:200px;
+    text-align:center;
+    margin:10px;
+    padding:10px;
+    /**/
+}
