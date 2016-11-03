@@ -53,7 +53,7 @@ main{
     
 }
 
-.imSaab{
+#imSaab{
     object-fit:scale-down;
     background-image: url("http://bilelib.com/img/spec/mdf/saab-9-5-saloon-1997.jpg");
     background-repeat: no-repeat;
